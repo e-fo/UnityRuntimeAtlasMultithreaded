@@ -1,0 +1,33 @@
+{
+  "name": "com.ammariqais.skiaforunity",
+  "displayName": "Skia For Unity",
+  "version": "1.0.1",
+  "unity": "2019.3",
+  "description": "Skia For Unity With Skottie Animations",
+  "author": {
+    "name": "Qais Ammari",
+    "email": "ammariqais66@gmail.com"
+  },
+  "keywords": [
+    "skia",
+    "skiasharp",
+    "skottie",
+    "lottie",
+    "unity",
+    "animation",
+    "2d graphics"
+  ],
+  "category": "Unity",
+  "files": [
+    "/Editor",
+    "/Editor.meta",
+    "Library",
+    "/Library.meta",
+    "/package.json",
+    "/package.json.meta",
+    "Runtime",
+    "Runtime.meta",
+    "SkiaSharp-Bindings",
+    "SkiaSharp-Bindings.meta"
+  ]
+}
