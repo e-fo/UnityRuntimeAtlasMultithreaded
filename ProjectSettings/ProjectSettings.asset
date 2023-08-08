@@ -157,6 +157,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.DefaultCompany.FreeImagePluginTest
     Standalone: com.DefaultCompany.2DProject
+    iPhone: com.DefaultCompany.FreeImagePluginTest
   buildNumber:
     Standalone: 0
     iPhone: 0
@@ -759,7 +760,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    iPhone: __IOS__;__UNIFIED__
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
